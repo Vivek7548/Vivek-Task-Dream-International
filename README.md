@@ -51,5 +51,7 @@ npm run dev
 
 # screenshot
 
-c:\Users\VIVEK\Downloads\srennshot.png
+![Landing Page Screenshot](screenshots/landing-page.png "Landing Page Preview")
+
+
 
