@@ -50,6 +50,5 @@ npm run dev
 
 
 # screenshot
-<img width="1920" height="5590" alt="srennshot" src="https://github.com/user-attachments/assets/48f9803f-c881-4ed8-8ed5-2f2e34e01790" />
-
+https://github.com/Vivek7548/Vivek-Task-Dream-International-screenshot/blob/main/srennshot.png
 
