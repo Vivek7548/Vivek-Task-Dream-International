@@ -113,7 +113,6 @@ const Navbar = () => {
                     className='p-2 rounded-full hover:bg-gray-100 transition'
                     aria-label='Close modal'
                   >
-                    <img src={Close} alt='close' className='h-5 w-5' />
                   </button>
                 </div>
 

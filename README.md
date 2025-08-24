@@ -51,6 +51,5 @@ npm run dev
 
 # screenshot
 
-![image](https://github.com/FREDVUNI/tailwind-react-landing/assets/41730664/1ca496a4-0406-4bcf-9f60-3e076425d8a3)
-
+c:\Users\VIVEK\Downloads\srennshot.png
 
