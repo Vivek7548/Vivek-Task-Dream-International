@@ -48,10 +48,9 @@ npm run dev
 - **NPM:** Package manager for Node.js packages.
 
 
+## 📸 Screenshot
 
-# screenshot
-
-![Landing Page Screenshot](screenshots/landing-page.png "Landing Page Preview")
+![Landing Page](./screenshot/landing-page.png)
 
 
 
