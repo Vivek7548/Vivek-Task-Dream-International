@@ -43,6 +43,37 @@ npm run dev
 - **NPM:** Package manager for Node.js packages.
 
 
+
+🚀 Dream International Task
+
+👨‍💻 Author: Vivek Deshmukh
+🛠 Tech Stack: React, Vite, Tailwind CSS, JavaScript, HTML, CSS
+
+⏱ Estimated Hours
+
+3 hours (includes setup and deployment)
+
+📦 Installation Guide
+# 1. Clone the repository
+git clone https://github.com/Vivek7548/Vivek-Task-Dream-International.git
+
+# 2. Navigate to project directory
+cd tailwind-react-landing
+
+# 3. Install dependencies
+npm install
+
+▶️ Usage Guide
+
+Run the development server:
+
+npm run dev
+
+🌍 Deployment
+
+✅ Live Demo: Dream International Landing Page https://landing-page-task-vivek.netlify.app/
+
+
 ## 📸 Screenshot
 
 <img src="./screenshot/landing-page.png" alt="Landing Page" width="100%" />
