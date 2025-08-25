@@ -35,11 +35,6 @@ To start the development server:
 npm run dev
 ```
 
-
-
-
-```
-
 ## Technologies Used
 
 - **React:** A JavaScript library for building user interfaces.
@@ -50,7 +45,6 @@ npm run dev
 
 ## 📸 Screenshot
 
-![Landing Page](./screenshot/landing-page.png)
-
+<img src="./screenshot/landing-page.png" alt="Landing Page" width="100%" />
 
 
